@@ -1,19 +1,59 @@
-<h1 align="center">Hi 👋, I'm Chrissantus Arvier</h1>
+<h1 align="center">Hi, I'm Your Mojo</h1>
+<h3 align="center">Backend Developer</h3>
 
----
-
-### 🚀 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="80"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="80"/>
-
+  <a href="https://linkedin.com/in/Mojo307">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Mojo207">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mojo207&show_icons=true&theme=tokyonight"/>
+## 👨‍💻 About Me
+Backend Developer focused on building reliable, scalable, and secure systems.  
+Experienced in designing RESTful APIs, working with databases, and maintaining server-side applications.
+
+---
+
+## 🛠 Backend Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 </p>
+
+---
+
+## 🧩 Core Skills
+- REST API & backend architecture  
+- Authentication & authorization (JWT, OAuth)  
+- Database design & query optimization  
+- Error handling & logging  
+- Basic DevOps & deployment  
+
+---
+
+## 📂 Featured Projects
+- **API Service** — REST API for user management and authentication  
+  🔗 https://github.com/Mojo207/api-service  
+
+- **Backend System** — Backend service with database integration  
+  🔗 https://github.com/Mojo207/backend-system  
+
+---
+
+## 📊 GitHub Statistics
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mojo207&show_icons=true&hide_title=true"/>
+</p>
+
+---
+
+## 📫 Contact
+- Email: spongebar46@gmail.com

@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chrissantus Arvier</h1>
 
-<h2 align="center">still learning.</h2>
-
 ---
 
 ### 🚀 Tech Stack

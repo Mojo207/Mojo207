@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chrissantus Arvier</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Masih pemula geesss,jangan dihujat. :v</h3>
 
 ---
 

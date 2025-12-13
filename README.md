@@ -51,3 +51,9 @@ Experienced in designing RESTful APIs, working with databases, and maintaining s
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+---

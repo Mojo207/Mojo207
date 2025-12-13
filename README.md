@@ -1,10 +1,7 @@
-<h1 align="center">Hi, I'm Your Mojo</h1>
+<h1 align="center">Hi, I'm Chrissantus Arvier </h1>
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Mojo307">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
-  </a>
   <a href="https://github.com/Mojo207">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
   </a>
@@ -54,6 +51,3 @@ Experienced in designing RESTful APIs, working with databases, and maintaining s
 </p>
 
 ---
-
-## 📫 Contact
-- Email: spongebar46@gmail.com

@@ -2,10 +2,8 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Mojo207">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  </a>
-</p>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p
 
 ---
 
@@ -48,12 +46,6 @@ Experienced in designing RESTful APIs, working with databases, and maintaining s
 ## 📊 GitHub Statistics
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Mojo207&show_icons=true&hide_title=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
 ---
